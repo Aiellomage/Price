@@ -6,11 +6,12 @@ use Aiello\Price\Model\ResourceModel\Test as ResourceModel;
 use Magento\Framework\Model\AbstractModel;
 
 class Test extends AbstractModel
+class Test
 {
-    /**
-     * @var string
-     */
-    protected $_eventPrefix = 'test_model';
+  //test232
+  /**
+  test33333
+  */
 
     /**
      * Initialize magento model.
